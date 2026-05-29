@@ -2,7 +2,7 @@
 👨‍💻 My portfolio 👨‍💻
 
 https://lysyshaky.github.io/
-<p>https://lessons-portfolio.webflow.io/</p>
+<p>https://lyqx.agency/</p>
 
 ### Mobile App Developer | UX/UI Designer 
 
